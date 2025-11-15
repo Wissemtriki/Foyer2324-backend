@@ -23,6 +23,7 @@ A Spring Boot backend for managing university housing (foyer). Handles student d
 mvn clean install
 4. Run the application:
 mvn spring-boot:run
+
 ## Author
 
 Developed by Wissem Eddine Triki during the engineering degree.
